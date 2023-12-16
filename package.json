@@ -1,6 +1,7 @@
 {
   "name": "quickmock",
   "version": "0.0.1",
+  "type": "module",
   "description": "An advanced mock data generator designed for flexibility and ease of use, enabling customizable and schema-driven mock data creation for a variety of formats and scenarios.",
   "keywords": [
     "typescript",
