@@ -1,6 +1,6 @@
 # quickmock
 
-quickmock is an advanced mock data generator designed for flexibility and ease of use. It enables customizable and schema-driven mock data creation for a variety of formats and scenarios, making it an ideal tool for developers in testing and development environments.
+`quickmock`` is an advanced mock data generator designed for flexibility and ease of use. It enables customizable and schema-driven mock data creation for a variety of formats and scenarios, making it an ideal tool for developers in testing and development environments.
 
 ## Features
 
@@ -19,7 +19,7 @@ npm install quickmock
 
 ## Usage
 
-Here's a basic example of using quickmock:
+Here's a basic example of using `quickmock`:
 
 ```js
 import { MockGenerator } from "quickmock";
@@ -68,8 +68,8 @@ console.log(userObject); // Object with 3 user entries with custom keys
 
 ## Contributing
 
-Contributions to quickmock are always welcome, whether it's improving the documentation, adding new features, or reporting bugs. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+Contributions to `quickmock` are always welcome, whether it's improving the documentation, adding new features, or reporting bugs. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
 ## License
 
-quickmock is [MIT licensed](LICENSE).
+`quickmock` is [MIT licensed](LICENSE).
