@@ -1,0 +1,32 @@
+# Dependency directories
+node_modules/
+
+# Distribution files
+/dist/
+/build/
+
+# Environment files
+.env
+
+# Log files
+npm-debug.log*
+
+# Editor configurations
+.vscode/
+.idea/
+
+# Testing/debugging files
+*.test.js
+*.spec.js
+
+# Cache files
+.cache/
+
+# OS files
+.DS_Store
+
+# Miscellaneous
+*.log
+*.tmp
+*.tmp.*
+changes.txt
