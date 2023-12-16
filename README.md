@@ -1,6 +1,6 @@
 # quickmock
 
-`quickmock`` is an advanced mock data generator designed for flexibility and ease of use. It enables customizable and schema-driven mock data creation for a variety of formats and scenarios, making it an ideal tool for developers in testing and development environments.
+`quickmock` is an advanced mock data generator designed for flexibility and ease of use. It enables customizable and schema-driven mock data creation for a variety of formats and scenarios, making it an ideal tool for developers in testing and development environments.
 
 ## Features
 
